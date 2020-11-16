@@ -14,3 +14,4 @@ elif [ $num1 -eq $num2 ]
 else
     echo "$num1 is less then $num2"
 fi
+
